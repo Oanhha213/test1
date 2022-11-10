@@ -1,0 +1,12 @@
+E:\LTTQ\BTTiengAnh\bin\Debug\BTTiengAnh.exe.config
+E:\LTTQ\BTTiengAnh\bin\Debug\BTTiengAnh.exe
+E:\LTTQ\BTTiengAnh\bin\Debug\BTTiengAnh.pdb
+E:\LTTQ\BTTiengAnh\obj\Debug\BTTiengAnh.csproj.AssemblyReference.cache
+E:\LTTQ\BTTiengAnh\obj\Debug\BTTiengAnh.csproj.SuggestedBindingRedirects.cache
+E:\LTTQ\BTTiengAnh\obj\Debug\BTTiengAnh.FillWord.resources
+E:\LTTQ\BTTiengAnh\obj\Debug\BTTiengAnh.Form1.resources
+E:\LTTQ\BTTiengAnh\obj\Debug\BTTiengAnh.Properties.Resources.resources
+E:\LTTQ\BTTiengAnh\obj\Debug\BTTiengAnh.csproj.GenerateResource.cache
+E:\LTTQ\BTTiengAnh\obj\Debug\BTTiengAnh.csproj.CoreCompileInputs.cache
+E:\LTTQ\BTTiengAnh\obj\Debug\BTTiengAnh.exe
+E:\LTTQ\BTTiengAnh\obj\Debug\BTTiengAnh.pdb
